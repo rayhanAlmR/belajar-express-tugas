@@ -40,5 +40,3 @@ module.exports = function (client) {
   });
   return router 
 }
-
-// test run
